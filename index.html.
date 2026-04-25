@@ -51,7 +51,7 @@
           <h3>${item.title}</h3>
           <p>${item.description}</p>
           <p>Location: ${item.location}</p>
-           <p>Contact: ${item.contact}</p>
+          <p>Contact: ${item.contact}</p>
         </div>`).join('');
     }
 
